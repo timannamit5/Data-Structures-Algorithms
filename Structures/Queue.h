@@ -77,3 +77,4 @@ public:
 };
 
 #endif // QUEUE_H
+# happy ending
