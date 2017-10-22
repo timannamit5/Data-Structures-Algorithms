@@ -1,6 +1,7 @@
 # Implementation of a queue using an array
 # Python 3
 # Aitor Alonso (https://github.com/tairosonloa)
+# Liverpool , Manchester United , Manchester City sucks 
 
 class QueueArray:
     def __init__(self):
@@ -57,9 +58,11 @@ if __name__ == "__main__":
                 print("Queue is not empty\n")
         elif option == '4':
             print("The queue size is", queue.size(), "\n")
+            
         elif option == '5':
             queue.printQueue()
             print()
+            
         elif option == '6':
             print("Bye!")
             break
