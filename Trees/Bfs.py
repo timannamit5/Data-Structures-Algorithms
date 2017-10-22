@@ -3,6 +3,8 @@
 #title           :Bfs.py
 #description     :Breadth first search implementation in python
 #reference       :http://eddmann.com/posts/depth-first-search-and-breadth-first-search-in-python/
+#http://www.geeksforgeeks.org/expert/
+#http://www.geeksforgeeks.org/bits-manipulation-important-tactics/
 #date            :10102017
 #version         :0.1
 #==============================================================================
