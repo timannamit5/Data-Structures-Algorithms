@@ -5,6 +5,7 @@
 #include <list>
 #include <climits>
 #include <algorithm>
+#include <stdlib>
 using namespace std;
 class Graph{
     int V;
