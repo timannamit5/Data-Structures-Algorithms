@@ -28,7 +28,7 @@ public class SelectionSort {
 			swap(arr, i, min);
 		}
 	}
-
+// Code is working
 	/**
 	 * Utility method for swapping elements in an array.
 	 *
