@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std();
 
+//Code is working
+
 void insertionSort(int table[], int size) {
     int key, j;
     for (int i = 1; i < size; i++) {
