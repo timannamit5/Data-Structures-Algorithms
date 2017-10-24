@@ -1,4 +1,5 @@
- public class MyLinearSearch {
+// Code is working 
+public class MyLinearSearch {
  
     public static int linerSearch(int[] arr, int key){
          
