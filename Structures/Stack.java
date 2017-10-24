@@ -71,3 +71,5 @@ public class Stack<E> {
         list[top] = data;
     }
 }
+
+// Code is working
