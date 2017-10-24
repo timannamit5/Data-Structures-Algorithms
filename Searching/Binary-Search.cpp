@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+#Code is working
+
 int binarySearch(int *arr,int low,int high,int x){
 	if(high >= low){
 		int mid = (low+high)/2;
