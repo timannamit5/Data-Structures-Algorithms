@@ -74,3 +74,5 @@ int main()
 	cout<<A[a]<<" ";
 	
 }
+
+// Code is working
