@@ -2,6 +2,8 @@
 
 using namespace std; //Not the best tactic, used for cleaner code and better understanding
 
+/* Code works */
+
 class Heap {
 private:
 std::vector<int> heap;
