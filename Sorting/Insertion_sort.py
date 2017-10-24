@@ -16,3 +16,4 @@ if __name__=="__main__":
     test = [10,67,2,998,23,56,32,21,91,21,22]
     print(insertion_sort(test))
     
+#Code is working
