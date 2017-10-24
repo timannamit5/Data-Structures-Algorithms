@@ -47,3 +47,5 @@ int main()
        cout<<a[i];
     cout<<endl<<"final answer"<<comp;
 }
+
+// Code is working
