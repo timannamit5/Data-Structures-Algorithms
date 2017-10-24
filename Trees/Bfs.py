@@ -47,3 +47,4 @@ if __name__ == '__main__':
 
     thisBfs = Bfs(graphAdjList)
     print "BFS traversal is: "+str(thisBfs.traverse('A'))
+    # Code is working
