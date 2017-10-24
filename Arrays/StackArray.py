@@ -1,6 +1,7 @@
 # Implementation of a stack using an array
 # Python 3
 # Aitor Alonso (https://github.com/tairosonloa)
+# Code is working
 
 class StackArray:
     def __init__(self):
