@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+#Code is working
 
 int ternary_search(int array[],int l,int r, int x)
 {
