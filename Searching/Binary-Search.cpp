@@ -25,3 +25,5 @@ int main(){
 	(ret==-1) ? (cout<<"Element not present") : (cout<<"Element found at index "<<ret);
 	return 0;
 }
+
+#code is working
