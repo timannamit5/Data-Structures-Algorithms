@@ -29,3 +29,4 @@ int main() {
     selectionSort(table, 5);
     return 0;
 }
+//Code is working
