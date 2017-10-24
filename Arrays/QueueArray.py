@@ -1,6 +1,7 @@
 # Implementation of a queue using an array
 # Python 3
 # Aitor Alonso (https://github.com/tairosonloa)
+#Code is working
 
 class QueueArray:
     def __init__(self):
