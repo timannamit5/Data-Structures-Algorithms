@@ -35,3 +35,5 @@ int main() {
     cout<<ternary_search(array,0,size-1,val)<<endl;
 return 0;
 }
+
+#Code is working
