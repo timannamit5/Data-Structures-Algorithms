@@ -36,3 +36,5 @@ public class QuickSort {
         arr[j] = temp;
     }
 }
+
+//Code is working
